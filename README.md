@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there 👋 I'm Prince Kumar
 
-<!--
-**princekumar-git10/princekumar-git10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Developer | 🚀 Tech Enthusiast | 📍 New Delhi, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Enthusiast
+- 💡 Interested in Web Development / Software Development
+- 🌱 Currently learning: React, Node.js, Data Structures & Algorithms
+- 🔭 Working on improving problem-solving skills
+- ⚡ Goal: To become a skilled Full Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- Python
+- C++
+- c
+
+**Frontend:**
+- HTML
+- CSS
+- React
+
+**Backend:**
+- Node.js
+- Express.js
+
+**Database:**
+- MySQL
+- MongoDB
+
+**Tools:**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Projects
+
+Here are some of my featured projects:
+
+- 🔹 ECE Core – A web application for Education (specially for ECE-students)
+- 🔹 AttendX – A web application to manage your attendance
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/prince-kumar-981a19364/)
+- 📧 Email: macuserprince@gmail.com
+
+---
+
+⭐️ From [Prince Kumar](https://github.com/princekumar-git10)
