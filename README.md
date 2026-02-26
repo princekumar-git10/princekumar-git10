@@ -19,7 +19,7 @@
 **Languages:**
 - Python
 - C++
-- c
+- C
 
 **Frontend:**
 - HTML
@@ -45,8 +45,8 @@
 
 Here are some of my featured projects:
 
-- 🔹 ECE Core – A web application for Education (specially for ECE-students)
-- 🔹 AttendX – A web application to manage your attendance
+- 🔹 ECE Core – A web application for Education (specially for ECE-students).
+- 🔹 AttendX – A web application to manage your attendance.
 
 ---
 
