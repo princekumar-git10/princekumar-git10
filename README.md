@@ -47,6 +47,7 @@ Here are some of my featured projects:
 
 - 🔹 ECE Core – A web application for Education (specially for ECE-students).
 - 🔹 AttendX – A web application to manage your attendance.
+- 🔹 Incredible India - A website for tourists to connect with the local artists.
 
 ---
 
