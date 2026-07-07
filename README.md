@@ -19,11 +19,11 @@
 
 # 👋 About Me
 
-I'm a Computer Science student passionate about building impactful software and solving challenging algorithmic problems.
+I'm a Electronics and communication student passionate about building impactful software and solving challenging algorithmic problems.
 
 I enjoy creating scalable web applications, improving my problem-solving skills through LeetCode, and constantly learning modern technologies.
 
-- 🎓 Computer Science Student
+- 🎓 Computer Science
 - 💻 Full Stack Development Enthusiast
 - 🧠 Solving Data Structures & Algorithms daily
 - 🌱 Currently learning React, Node.js & System Design
